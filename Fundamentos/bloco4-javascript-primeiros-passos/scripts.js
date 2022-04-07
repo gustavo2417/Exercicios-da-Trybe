@@ -1,5 +1,4 @@
-const myName = "Gustavo";
-const birthCity = "Cotia";
-const birthYear = 2003;
-console.log(myName,birthCity,birthYear);
+const a = 20;
+const b = 30;
+const c = 10;
 
